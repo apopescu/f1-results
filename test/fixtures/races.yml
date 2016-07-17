@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  position: MyString
+  grid: 1
+  time: MyString
+  status: MyString
+  tyres: MyString
+
+two:
+  position: MyString
+  grid: 1
+  time: MyString
+  status: MyString
+  tyres: MyString

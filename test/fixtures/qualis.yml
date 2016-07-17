@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  position: MyString
+  q1time: MyString
+  q2time: MyString
+  q3time: MyString
+  tyres: MyString
+
+two:
+  position: MyString
+  q1time: MyString
+  q2time: MyString
+  q3time: MyString
+  tyres: MyString
